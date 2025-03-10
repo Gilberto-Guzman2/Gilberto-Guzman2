@@ -1,16 +1,8 @@
-# Hola, Soy Gilberto Guzmán, ¡y esta es mi nueva cuenta!
+# Hi, I'm Gilberto Guzman, and this is my new account!
 
-## Soy un Desarrollador de Software Apasionado e Instructor Nato.
+## I'm a Passionate Software Developer and Native Instructor.
 
-## Checa mi nuevo [CV](https://github.com/Gilberto-Guzman2/Gilberto-Guzman2/blob/main/Docs/Gilberto-Guzman2.pdf)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gilberto-Guzman&label=Profile%20views&color=0e75b6&style=flat" alt="Gilberto-Guzman" /> </p>
-
-<div align="left">
-  <a href="https://github.com/Gilberto-Guzman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Guzman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Guzman&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+## Check my new [CV](https://github.com/Gilberto-Guzman2/Gilberto-Guzman2/blob/main/Docs/Gilberto-Guzman2.pdf)
 
 # Knowledge
 
@@ -56,23 +48,6 @@
 [![Prezi](https://img.shields.io/badge/Prezi-318CE7?style=for-the-badge&logo=prezi&logoColor=white)]()
 [![Visme](https://img.shields.io/badge/Visme-15B5E2?style=for-the-badge&logo=visme&logoColor=white)]()
 
-# Courses taught
-
-## Markdown Crash Course
-
-- Code: https://github.com/Gilberto-Guzman/Markdown-Crash-Course
-- Presentation: https://github.com/Gilberto-Guzman/Descubre-el-mundo-de-markdown/blob/master/Presentacion/Markdown%20Crash%20Course.pptx
-- Complete course:  
-    Red por la Ciberseguridad ➜ https://www.facebook.com/redporlaciberseguridad/videos/671294364909035/  
-    Universidad Autonoma de Chiapas ➜ https://www.youtube.com/watch?v=cb9705c3DqI
-
-## React + Material UI Crash Course
-
-- Code: https://github.com/Gilberto-Guzman/gilberto-guzman.github.io
-- Presentation: https://github.com/Gilberto-Guzman/gilberto-guzman.github.io/blob/main/Presentacion/React%20%2B%20Material%20UI%20Crash%20Course.pptx
-- Complete course:  
-    Red por la Ciberseguridad ➜ https://www.facebook.com/redporlaciberseguridad/videos/3580184082258977  
-    Universidad Autonoma de Chiapas ➜ youtube-link-pendiente
 
 ## ChatGPT Prompt Engineering Crash Course
 
