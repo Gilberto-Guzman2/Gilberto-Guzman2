@@ -1,4 +1,5 @@
-## 👨‍💻 Gilberto Guzmán
+## 👋 Hi there! I'm **Gilberto Guzmán** — Welcome to my new GitHub account 👨‍💻  
+
 ### Software Development Engineer
 
 Passionate about technology, software development, and teaching, always learning and constantly evolving.
@@ -8,7 +9,8 @@ Passionate about technology, software development, and teaching, always learning
 ## 📞 Contact
 - 📱 **Phone:** [221 529 2048](tel:+522215292048)
 - 📧 **Email:** [josegilbertoguzmangutierrez@gmail.com](mailto:josegilbertoguzmangutierrez@gmail.com)
-- 🌐 **Portfolio:** [gilberto-guzman.github.io](https://gilberto-guzman.github.io/)
+- 🌐 **Legacy Portfolio:** [gilberto-guzman.github.io](https://gilberto-guzman.github.io/)
+- 🌐 **New Portfolio :** Under construction.
 
 ---
 
@@ -19,6 +21,7 @@ Passionate about technology, software development, and teaching, always learning
 - ✅ **Microsoft Learn:** Student Ambassadors
 - ✅ **Cisco:** Switching Routing And Wireless Essentials
 
+If you want to see all my certifications and recognitions, feel free to visit my portfolio or contact me directly.
 ---
 
 ## 💼 Work Experience
