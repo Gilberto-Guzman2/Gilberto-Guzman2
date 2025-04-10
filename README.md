@@ -9,6 +9,7 @@ Passionate about technology, software development, and teaching, always learning
 ## 📞 Contact
 - 📱 **Phone:** [221 529 2048](tel:+522215292048)
 - 📧 **Email:** [josegilbertoguzmangutierrez@gmail.com](mailto:josegilbertoguzmangutierrez@gmail.com)
+- **CV:** [CV](https://github.com/Gilberto-Guzman2/Gilberto-Guzman2/blob/main/Docs/Gilberto-Guzman-CV.pdf)
 - 🌐 **Legacy Portfolio:** [gilberto-guzman.github.io](https://gilberto-guzman.github.io/)
 - 🌐 **New Portfolio :** Under construction.
 
