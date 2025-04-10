@@ -40,15 +40,10 @@ If you want to see all my certifications and recognitions, feel free to visit my
 - Preparation of general and specialized documentation.
 
 ### Cluster TI
-**Fullstack Web Developer: PHP & Tailwind CSS**
+**Project Leaders, Software Developer and IT Support**
 - Management and leadership of development teams.
 - Structuring of new software architectures.
 - Creation of self-manageable websites.
-
-### UNACH Institutional Relations Coordination
-**FullStack Web Developer: Node.js & Bootstrap**
-- Development of a personalized internal-use web system for the management and automation of academic mobility requests.
-- Computer equipment maintenance and technical support.
 
 ---
 
@@ -57,6 +52,11 @@ If you want to see all my certifications and recognitions, feel free to visit my
 **AI and IT Area Instructor**
 - Leadership and creation of student communities.
 - Planning and creation of technical and professional training.
+
+### UNACH Institutional Relations Coordination
+**FullStack Web Developer: Node.js & Bootstrap**
+- Development of a personalized internal-use web system for the management and automation of academic mobility requests.
+- Computer equipment maintenance and technical support.
 
 ---
 
