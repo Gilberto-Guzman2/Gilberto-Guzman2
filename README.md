@@ -9,14 +9,15 @@ Passionate about technology, software development, and teaching, always learning
 ## 📞 Contact
 - 📱 **Phone:** [221 529 2048](tel:+522215292048)
 - 📧 **Email:** [josegilbertoguzmangutierrez@gmail.com](mailto:josegilbertoguzmangutierrez@gmail.com)
-- **CV:** [CV](https://github.com/Gilberto-Guzman2/Gilberto-Guzman2/blob/main/Docs/Gilberto_Guzman_CV_2025.pdf)
+- 📄 **Curriculum Vitae:** [Watch CV](https://github.com/Gilberto-Guzman2/Gilberto-Guzman2/blob/main/Docs/Gilberto_Guzman_CV_2025.pdf)
 - 🌐 **Legacy Portfolio:** [gilberto-guzman.github.io](https://gilberto-guzman.github.io/)
-- 🌐 **New Portfolio :** Under construction.
+- 🛠️ **New Portfolio:** Under construction.
 
 ---
 
 ## 🧠 Main Certifications
 - ✅ **Microsoft Azure:** AI Fundamentals
+- ✅ **Microsoft Azure:** AI Engineer Associate
 - ✅ **Microsoft Azure:** Cloud Fundamentals
 - ✅ **Microsoft Azure:** Security, Compliance and Identity Fundamentals
 - ✅ **Microsoft Learn:** Student Ambassadors
